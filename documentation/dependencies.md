@@ -58,7 +58,7 @@ The following dependencies are needed to deploy and run the application:
   },
 ```
 ### Back-End
-
+```
   "dependencies": {
     "@types/bcryptjs": "2.4.2",
     "@types/jsonwebtoken": "^8.3.2",
@@ -75,8 +75,8 @@ The following dependencies are needed to deploy and run the application:
     "sequelize": "^5.21.4",
     "sequelize-typescript": "^0.6.9"
   },
-
-
+```
+```
   "devDependencies": {
     "@types/bluebird": "^3.5.26",
     "@types/cors": "^2.8.6",
@@ -95,3 +95,4 @@ The following dependencies are needed to deploy and run the application:
     "typescript": "^3.9.10"
   }
 }
+```
