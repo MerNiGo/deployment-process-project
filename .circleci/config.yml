@@ -66,10 +66,9 @@ jobs:
             npm run api:deploy
       # Deploy the frontend
       - run:
-          name: Deploy Front-End
+          name: Deploy Front End
           command: |
-          npm run frontend:deploy
-            
+            npm run frontend:deploy        
 workflows:
   udagram:
     jobs:
