@@ -9,7 +9,7 @@ The following dependencies are needed to deploy and run the application:
 
 ## Application
 ### Front-End
-'''
+```
   "dependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
@@ -26,8 +26,8 @@ The following dependencies are needed to deploy and run the application:
     "rxjs": "~6.5.4",
     "zone.js": "~0.9.1"
   },
-'''
-'''
+```
+```
   "devDependencies": {
     "@angular-devkit/architect": "~0.12.3",
     "@angular-devkit/build-angular": "^0.803.24",
@@ -56,7 +56,7 @@ The following dependencies are needed to deploy and run the application:
     "tslint": "~5.12.0",
     "typescript": "^3.5.3"
   },
-'''
+```
 ### Back-End
 
   "dependencies": {
