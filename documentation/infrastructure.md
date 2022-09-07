@@ -1,4 +1,4 @@
-[title](./pictures/infrastructure.png)
+![alt text](./pictures/infrastructure.png)
 
 ## AWS
 ---
