@@ -44,6 +44,10 @@ There are no tests on the back-end
 
 - Push new commits to the repositori. The pipeline start with the deployment process.
 
+### Link to Application
+
+[App](http://project-hotwing-bucket.s3-website-us-east-1.amazonaws.com)
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
