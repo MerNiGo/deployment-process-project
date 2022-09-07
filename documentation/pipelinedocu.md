@@ -1,5 +1,7 @@
 # CircleCI Process
 
+![alt text](./pictures/Pipeline_Flow%20.png)
+
 ### Build Process
 
 1. Installing node on system
